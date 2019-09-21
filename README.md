@@ -1,13 +1,15 @@
 # 
 # MDC-100 Series of Codelabs
 
-![alt text](/images/Screenshot_1568733621.png)
-![alt text](/images/Screenshot_1568733638.png)
-![alt text](/images/Screenshot_1569069063.png)
-![alt text](/images/Screenshot_1569069076.png)
-![alt text](/images/Screenshot_1569069087.png)
-![alt text](/images/Screenshot_1569069091.png)
-![alt text](/images/Screenshot_1569069094.png)
+
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+<img src="/images/Screenshot_1568733621.png" width="108" height="192" />
+
+
 
 
 
